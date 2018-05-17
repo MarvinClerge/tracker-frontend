@@ -10,7 +10,7 @@ class CompanyContainer extends React.Component {
   render(){
     return(
       <div className='company-container'>
-        
+
       </div>
     )
   }
