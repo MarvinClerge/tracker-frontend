@@ -1,0 +1,7 @@
+.side {
+  width: 400px;
+  height: 100vw;
+  background-color: var(--l-grey);
+  position: fixed;
+  border-right: 1px solid var(--d-grey);
+}
