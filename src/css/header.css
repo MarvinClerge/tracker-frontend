@@ -9,7 +9,7 @@
 
 .sub-header {
   width: calc(100vw - 400px);
-  height: 35px;
+  min-height: 35px;
   font-size: 20px;
   background-color: var(--l-grey);
   padding: 5px 30px;
